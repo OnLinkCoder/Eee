@@ -1,0 +1,11 @@
+class operators:
+  addition = "+"
+  subtraction = "-"
+  multiplication = "*"
+  division = "/"
+  increment = "++"
+  decrement = "--"
+  power = "^"
+  floor_division = "//"
+  remainder = "%"
+  equal = "="
